@@ -33,3 +33,19 @@
       color: grey;
       padding:10px;
   }
+
+  .home-icons{
+      margin-top:50px;
+  }
+
+  .icon{
+      padding:10px;
+  }
+
+  .icon img{
+      height: 25px;
+  }
+
+  hr{
+      width: 70%;
+  }
