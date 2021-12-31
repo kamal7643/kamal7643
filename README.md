@@ -7,3 +7,5 @@
 
 [![Kamal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamal7643)]
 
+
+link : https://kamal7643.github.io/kamal7643/
