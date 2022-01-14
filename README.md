@@ -11,3 +11,7 @@
 link : https://kamal7643.github.io/kamal7643/
 
 rest-api : https://rest-api-kamal.herokuapp.com/posts
+
+react-project : https://aplhasecond.web.app/
+
+video-chat : https://vi-chat-app.web.app/
