@@ -10,7 +10,7 @@
 
 link : https://kamal7643.github.io/kamal7643/
 
-rest-api : https://rest-api-kamal.herokuapp.com/posts
+rest-api : https://rest-api-kamal.herokuapp.com/posts | https://rest-api-kamal.herokuapp.com/users
 
 react-project : https://aplhasecond.web.app/
 
