@@ -7,18 +7,7 @@
 
 [![Kamal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kamal7643)]
 
-Diary : https://my-virtual-diary.web.app/
-
-link : https://kamal7643.github.io/kamal7643/
-
-rest-api : https://rest-api-kamal.herokuapp.com/posts | https://rest-api-kamal.herokuapp.com/users
 
 react-project : https://aplhasecond.web.app/
 
 video-chat : https://vi-chat-app.web.app/
-
-crash-web :: makehere : https://crash-web-d.web.app/make?id=temp&viewtype=page&viewid=home viewhere: https://crash-web-d.web.app/site?id=temp&page=home
-
-sports : https://kamal7643.github.io/sports/
-
-online code compiler : https://kamal-code-editor.web.app/
